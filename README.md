@@ -19,3 +19,5 @@ Assignment 1 (Shrekovski):
 It was a good subject to learn about **SQL**, and databases (specifically Oracle databases). This was the first time building an application with **Windows Forms**.  
 
 Final Grade: 17
+
+For the second part of the subject follow [this](https://github.com/ShadowXPAEdu/tpsi-databases-ii) link.
